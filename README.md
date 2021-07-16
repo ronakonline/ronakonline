@@ -56,6 +56,7 @@ Sunday       84 commits     █████░░░░░░░░░░░░�
 ⏳ **Year Progress** { ████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 53.71 % as on ⏰ 16-7-2021.
 
 
+---
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
