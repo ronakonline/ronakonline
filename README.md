@@ -1,6 +1,7 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+
+
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 - 🏦 I'm a full stack web developer from India.
@@ -22,36 +23,14 @@
 ---
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
 ![Ronak's github stats](https://github-readme-stats.vercel.app/api?username=ronakonline&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronakonline&layout=compact&text_color=daf7dc&bg_color=151515&hide=html,css&langs_count=8&exclude_repo=GMart)](https://github.com/ronakonline/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronakonline&layout=compact&text_color=daf7dc&bg_color=151515&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.44% 
-🌆 Daytime    119 commits    ███████░░░░░░░░░░░░░░░░░░   31.07% 
-🌃 Evening    179 commits    ███████████░░░░░░░░░░░░░░   46.74% 
-🌙 Night      45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.75%
-
-```
-**I'm Most Productive on Sunday** 📅 
-
-```text
-Monday       47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
-Tuesday      38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.61% 
-Wednesday    82 commits     █████░░░░░░░░░░░░░░░░░░░░   22.91% 
-Thursday     12 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.35% 
-Friday       23 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.42% 
-Saturday     72 commits     █████░░░░░░░░░░░░░░░░░░░░   20.11% 
-Sunday       84 commits     █████░░░░░░░░░░░░░░░░░░░░   23.46%
-
-```
-
-
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 53.71 % as on ⏰ 16-7-2021.
+⏳ **Year Progress** { ████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 53.98 % as on ⏰ 17-7-2021.
+
 
 
 ---
@@ -59,7 +38,7 @@ Sunday       84 commits     █████░░░░░░░░░░░░�
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Looking at code you wrote more than two weeks ago is like looking at code you are seeing for the first time.”— Dan Hurvitz   </i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
