@@ -24,12 +24,11 @@
 ### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px'> My Github Stats:
 ![Ronak's github stats](https://github-readme-stats.vercel.app/api?username=ronakonline&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronakonline&layout=compact&text_color=daf7dc&bg_color=151515&hide=html,css&langs_count=8&exclude_repo=GMart)](https://github.com/ronakonline/github-readme-stats)
-
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 53.98 % as on ⏰ 17-7-2021.
+⏳ **Year Progress** { ████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 54.26 % as on ⏰ 18-7-2021.
 
 
 
@@ -38,7 +37,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“If you have a procedure with ten parameters, you probably missed some.”— Alan Perlis  </i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
