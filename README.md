@@ -28,7 +28,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 59.19 % as on ⏰ 5-8-2023.
+⏳ **Year Progress** { █████████████████▁▁▁▁▁▁▁▁▁▁▁▁▁ } 59.47 % as on ⏰ 6-8-2023.
 
 
 
@@ -37,7 +37,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Amazon was a hard cover book seller, but actually now sells more e-books than hard covers</i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
