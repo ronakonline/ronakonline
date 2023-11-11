@@ -28,7 +28,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { █████████████████████████▁▁▁▁▁ } 85.77 % as on ⏰ 10-11-2023.
+⏳ **Year Progress** { █████████████████████████▁▁▁▁▁ } 86.05 % as on ⏰ 11-11-2023.
 
 
 
@@ -37,7 +37,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>Windows doesn’t allow for creation of folders tagged CON, PRN, AUX, or NUL. These are keywords reserved by DOS.</i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
