@@ -28,7 +28,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 26.05 % as on ⏰ 6-4-2025.
+⏳ **Year Progress** { ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 26.32 % as on ⏰ 7-4-2025.
 
 
 
@@ -37,7 +37,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards.”— Gene Spafford   </i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
